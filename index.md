@@ -1,7 +1,7 @@
 This is the autobiography of Bonnie Shell.
 
-<ul>
+<ol>
 {% for story in stories %}
-    <li><a href="/story/{{ story.slug }}/">{{ story.title }}</a></li>
+{% if 0 < story.slug.length %}<li><a href="/story/{{ story.slug }}/">{{ story.title }}</a></li>{% endif %}
 {% endfor %}
-</ul>
+</ol>

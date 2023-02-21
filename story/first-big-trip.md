@@ -16,11 +16,11 @@ When we got to LA, I went to the information booth to tell the woman what our pr
 
 I should mention that in those days, you traveled in Sunday’s best clothes (hat, high heels, and white gloves). She made a phone call and told us to follow her. So we ran (not easy in high heels) to where the plane was already moving. They stopped the plane, and we got on.
 
-Of course, when we got to San Diego, no one was waiting for us as we had not anticipated all the delays. In addition, we had no phone number, so I had to call information from a payphone to let our hosts know we had arrived.
+Of course, no one was waiting for us when we got to San Diego, as we had not anticipated all the delays. In addition, we had no phone number, so I had to call information from a payphone to let our hosts know we had arrived.
 
 When Chester came to pick us up, we found out that our luggage was not on our flight, but they would call when it reached the airport.
 
-When we got to their house, they said they had a little party for us, but unfortunately we missed it. Janet and Diane were great hosts and told us not to worry about clothes because they were about the same sizes as my sister and me.
+When we got to their house, they said they had a little party for us, but unfortunately, we missed it. Janet and Diane were great hosts and told us not to worry about clothes because they were about the same sizes as my sister and me.
 
 We called our parents to let them know we had arrived safely, and they breathed a sigh of relief.
 

@@ -3,14 +3,22 @@ title: Bonnie Shell's Autobiography
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en-us" dir="ltr">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title }}</title>
+    <link rel="stylesheet" href="/assets/readable.css?v=0.3.4">
   </head>
   <body>
-    <h1>{{ title }}</h1>
-    {{ content | safe }}
+    <header>
+      <h1>{{ title }}</h1>
+    </header>
+    <main>
+      {{ content | safe }}
+    </main>
+    <footer>
+      &copy; 2023, Bonnie Shell
+    </footer>
   </body>
 </html>
