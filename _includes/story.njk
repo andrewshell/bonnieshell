@@ -11,11 +11,17 @@ title: Bonnie Shell's Life Stories
   </head>
   <body>
     <header>
+      <p><a href="/">Bonnie Shell's Life Stories</a></p>
       <h1>{{ title }}</h1>
     </header>
     <main>
       {{ content | safe }}
     </main>
+{%- if  next %}
+    <nav>
+      {%- if next %}<a rel="next" href="/story/{{ next.slug }}/">{{ next.title }}</a>{% endif %}
+    </nav>
+{%- endif %}
     <footer>
       &copy; 2024, Bonnie Shell
     </footer>

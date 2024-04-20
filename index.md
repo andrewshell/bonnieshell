@@ -1,7 +1,65 @@
-This is the autobiography of Bonnie Shell.
+{% image "/assets/img/RIZ_0416.jpg", "Bonnie Shell", 500 %}
 
-<ol>
-{% for story in stories %}
-{% if 0 < story.slug.length %}<li><a href="/story/{{ story.slug }}/">{{ story.title }}</a></li>{% endif %}
-{% endfor %}
-</ol>
+## 1. Family and Relationships
+- [How did you decide to get married?](/story/marriage-decision/)
+- [How far back can you trace your family ancestry?](/story/family-ancestry/)
+- [Has your relationship with your siblings changed over the years?](/story/sibling-relationships/)
+- [If you could have dinner with anyone, who would it be?](/story/dinner-with-anyone/)
+- [What aspects of having children didn't turn out the way you expected?](/story/children/)
+- [What is your best advice when it comes to raising children?](/story/raising-children/)
+- [What is your best relationship advice?](/story/relationship-advice/)
+- [What things did your parents argue about when you were little?](/story/parents-argue/)
+- [What was one of the best dates you've been on?](/story/best-dates/)
+- [What were your grandparents like?](/story/grandparents/)
+- [What's something you really disagreed with your parents about?](/story/parental-disagreement/)
+- [Who are the best cooks in your family?](/story/best-cooks/)
+- [Who have been your closest friends throughout the years?](/story/closest-friends/)
+
+## 2. Personal History and Memories
+- [Did you have any serious accidents as a child?](/story/childhood-accidents/)
+- [How is life different today compared to when you were a child?](/story/life-today/)
+- [What about being a child do you miss the most?](/story/missing-childhood/)
+- [What are some of your childhood accomplishments?](/story/childhood-accomplishments/)
+- [What did you look forward to the most as a child?](/story/look-forward/)
+- [What is one of your earliest childhood memories?](/story/earliest-memory/)
+- [What is one of your favorite children's stories?](/story/children-stories/)
+- [What was life like in the 60s?](/story/life-in-the-60s/)
+- [What was your first big trip?](/story/first-big-trip/)
+- [What was your weekend tradition when you were a kid?](/story/weekend-tradition/)
+
+## 3. Life Lessons and Wisdom
+- [Do you have a dream you haven't achieved yet? Will you keep trying?](/story/dreams/)
+- [Have you ever doubted your faith?](/story/doubted-faith/)
+- [Have you ever found out something you wished you had never known?](/story/wish-never-known/)
+- [Have you ever had a moment that changed the course of your life?](/story/changed-moment/)
+- [Have you ever had to stand up for your principles? What was the outcome?](/story/stand-up-for-principles/)
+- [Tell me about one of the best days you can remember.](/story/best-days/)
+- [What advice would you give your 20 year old self?](/story/advice-for-20yo-self/)
+- [What are you most proud of?](/story/most-proud/)
+- [What do people get wrong about you?](/story/get-wrong/)
+- [What do you worry about?](/story/worry-about/)
+- [What is one trait you would most like to improve in yourself?](/story/trait-improvement/)
+- [What's one thing you wish you'd known before becoming a parent?](/story/parental-advice/)
+- [What weaknesses do you struggle with the most?](/story/weaknesses/)
+- [What do you think is the meaning of life?](/story/meaning-of-life/)
+- [Who inspires you?](/story/who-inspires-you/)
+
+## 4. Career and Achievements
+- [Did anyone in the family play a part in History with a capital h?](/story/part-in-history/)
+- [What is one of the funniest things you've ever done?](/story/funniest-things/)
+- [What is one of the stupidest things you've ever done?](/story/stupidest-things/)
+- [What led to the decision to start your own fabric shop?](/story/fabric-shop/)
+- [What are some of your special talents?](/story/special-talents/)
+- [What were your bosses like?](/story/bosses/)
+
+## 5. Interests and Hobbies
+- [Do you believe in ghosts? Have you ever encountered one?](/story/ghosts/)
+- [What are your favorite books?](/story/favorite-books/)
+- [What are your favorite movies?](/story/favorite-movies/)
+- [What are your favorite recipes, either to cook or to eat?](/story/favorite-recipes/)
+- [What are your favorite TV shows?](/story/favorite-tv-shows/)
+- [What did you wear when younger that mortifies you now?](/story/fashion-mortifies-you/)
+- [What famous people have you met and how did you meet them?](/story/famous-people/)
+- [What inventions have had the biggest impact on your day-to-day life?](/story/inventions/)
+- [What were your favorite subjects in high school?](/story/favorite-school-subjects/)
+- [How did your parents pick your name?](/story/pick-your-name/)
